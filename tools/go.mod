@@ -4,7 +4,7 @@ go 1.23.0
 
 require (
 	github.com/estesp/manifest-tool/v2 v2.2.1
-	github.com/google/go-licenses v1.6.0
+	github.com/google/go-licenses/v2 v2.0.1
 )
 
 require (
